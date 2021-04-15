@@ -23,7 +23,8 @@ object Form1: TForm1
     Items.Strings = (
       'one two three'
       'four five six'
-      'seven eight nine')
+      'seven eight nine'
+      'ten eleven twelve')
     TabOrder = 0
   end
 end
